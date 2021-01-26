@@ -4,8 +4,6 @@ public class HelloTest {
     public static void main(String[] args) {
         System.out.println("Test");
         System.out.println("Hello");
-        System.out.println("Test number 5");
-        System.out.println("Test FeatureB");
     }
 
 }
